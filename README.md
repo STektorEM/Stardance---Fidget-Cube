@@ -22,6 +22,7 @@ My makerworld profile: (https://makerworld.com/en/@ektoracc)
  - Wall 1: Breathe (Modelled after worry stones, ancient tools used for anxiety relief)
  - Wall 2 (For joystick)
  - Joystick Assembly (constisting of several components)
+ - connecting rods (8 in total)
 
 # How it works
 There are multiple mechanical actions that are used in the fidget cube, such as sliding, rotating, and pressing. The mechanical actions are designed to allow for smooth operation of the components while keeping them tightly coupled with the base part.
