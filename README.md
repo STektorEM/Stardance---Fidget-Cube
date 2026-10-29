@@ -7,7 +7,13 @@ A CAD model of a fidget cube
 
 Links↓
 
-My makerworld profile: (https://makerworld.com/en/@ektoracc)
+My makerworld profile: https://makerworld.com/en/@ektoracc
+
+DEMO/Makerworld link: https://makerworld.com/en/models/3513371-fidget-cube
+
+Onshape model: https://cad.onshape.com/documents/e72ad86f4ae39aa2ba8cba2d/w/bc062685b4d9b2f49440f960/e/a3ecf0c5c6cfa68fdce4078e?renderMode=0&uiState=6ae346023d87578931e532e6
+
+Incase the link doesn't open, copy it and paste in a new tab
 
 
 
